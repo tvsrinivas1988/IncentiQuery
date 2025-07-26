@@ -1,0 +1,10 @@
+INSERT INTO territories (name, region, manager) VALUES ('Territory 1', 'Central', 'Diane Forbes');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 2', 'South', 'Jason Hahn');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 3', 'East', 'Paul Parsons');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 4', 'North', 'April Anderson');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 5', 'East', 'Jason Davis');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 6', 'West', 'Frederick Davis');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 7', 'East', 'Travis Ward MD');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 8', 'Central', 'Christina Silva');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 9', 'North', 'David Raymond');
+INSERT INTO territories (name, region, manager) VALUES ('Territory 10', 'East', 'Lance Tran');

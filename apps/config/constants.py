@@ -1,0 +1,13 @@
+##MODEL_NAME = "deepseek/deepseek-chat-v3-0324:free"
+MODEL_NAME = "deepseek/deepseek-r1-0528:free"
+MODEL_BASE_URL = "https://openrouter.ai/api/v1"
+MODEL_FAMILY='deepseek'
+MODEL_VISION='True'
+MODEL_FUNCTION_CALLING='True'
+MODEL_JSON_OUTPUT = 'False'
+MODEL_STRUCTURED_OUTPUT='False'
+POSTGRES_USER='neondb_owner'
+POSTGRES_PASSWD='npg_Lvcq4Re7hMtH'
+POSTGRES_HOST='ep-dark-term-adpsa3vv-pooler.c-2.us-east-1.aws.neon.tech'
+POSTGRES_PORT='5432'
+POSTGRES_DB = 'neondb'

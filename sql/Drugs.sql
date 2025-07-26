@@ -1,0 +1,16 @@
+delete from drugs;
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_1', 'Oncology', '2020-01-27');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_2', 'Oncology', '2023-09-22');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_3', 'Cardiovascular', '2022-12-03');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_4', 'Oncology', '2017-12-30');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_5', 'Diabetes', '2017-01-17');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_6', 'Oncology', '2021-12-27');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_7', 'Oncology', '2019-03-04');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_8', 'Cardiovascular', '2018-09-24');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_9', 'Diabetes', '2020-09-08');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_10', 'Respiratory', '2019-05-29');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_11', 'Cardiovascular', '2015-07-29');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_12', 'Diabetes', '2016-05-13');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_13', 'Oncology', '2023-12-22');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_14', 'Neurology', '2019-10-26');
+INSERT INTO drugs (name, therapeutic_area, launch_date) VALUES ('Drug_15', 'Diabetes', '2020-12-10');
