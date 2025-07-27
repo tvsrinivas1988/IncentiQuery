@@ -11,6 +11,6 @@ faiss-cpu
 langchain-pinecone
 langchain-core
 streamlit
-autogen==0.6.4
+autogen==0.6.1
 pandas
 sqlalchemy
