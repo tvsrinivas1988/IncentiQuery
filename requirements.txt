@@ -15,4 +15,4 @@ autogen-agentchat
 autogen-core
 autogen-ext
 pandas
-sqlaclchemy
+sqlalchemy
