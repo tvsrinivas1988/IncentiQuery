@@ -14,3 +14,4 @@ streamlit
 autogen==0.6.1
 pandas
 sqlalchemy
+pyautogen
