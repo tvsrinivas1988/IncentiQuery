@@ -11,9 +11,6 @@ faiss-cpu
 langchain-pinecone
 langchain-core
 streamlit
-autogen
-autogen-agentchat
-autogen-core
-autogen-ext
+pyautogen
 pandas
 sqlalchemy
